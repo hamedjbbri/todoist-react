@@ -9,8 +9,13 @@ export const Header = () => {
 
                       <div className="settings">
                         <ul>
-                            <li>+</li>
-                            <FaPizzaSlice />
+                          <li>
+                              +
+                          </li>
+                          <li>
+                               <FaPizzaSlice />
+                          </li> 
+                              
                         </ul>
                       </div>
                   </nav>
